@@ -140,4 +140,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact Information
 
 For support or inquiries, please contact vishvamjoshi11099@gmail.com.
-```
