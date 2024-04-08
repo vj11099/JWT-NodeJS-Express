@@ -123,10 +123,6 @@ Response:
 - Token expiration is implemented to enhance security.
 - Protection against CSRF attacks is recommended.
 
-## Error Handling
-
-[Describe how errors are handled here]
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
