@@ -10,7 +10,7 @@ Currently the code is not polished. Will be updated shortly
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/vj11099/JWT-NodeJS-Express.git>
+   git clone https://github.com/vj11099/JWT-NodeJS-Express.git
    ```
 
 2. Navigate to the project directory:
