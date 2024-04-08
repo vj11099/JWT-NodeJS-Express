@@ -82,7 +82,7 @@ Request Body:
 
 Response:
 - `200 OK`: Successful login. Returns a JWT token.
-- `401 Unauthorized`: Invalid credentials.
+- `400 Unauthorized`: Invalid credentials.
 
 ### Logout
 
