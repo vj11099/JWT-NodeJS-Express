@@ -3,6 +3,7 @@
 ## Introduction
 
 This project implements a simple JWT (JSON Web Token) authentication system using MongoDB, Express, and Node.js (MEN) stack. It provides endpoints for user signup, login, logout, and retrieving a list of items (accessible only when authenticated).
+Currently the code is not polished. Will be updated shortly
 
 ## Installation
 
